@@ -9,8 +9,8 @@ To create a comprehensive weekly credit card dashboard that delivers real-time i
 ## Project Insights- Week 53 (31st Dec)
 WoW change: 
 1. Revenue increased by 28.8%, 
-2. Total Transaction Amt & Count increased by xx% & xx%
-3. Customer count increased by xx%
+2. Total Transaction Amt & Count increased by 35.04% & 12.80%
+3. Customer Income increased by 18.23%
 
 Overview:
 
